@@ -29,6 +29,6 @@ git clone https://github.com/deependra-bit/event-management-frontend.git
 cd frontend
 ```
 
-## Diploy link of fornten part
+## Diploy link of frontend part
 
 https://event-management-frontend-taupe.vercel.app/
